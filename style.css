@@ -1,0 +1,40 @@
+body{
+    background:linear-gradient(#24d62a 0%,#d69b24 100%);
+     background-image: url("wall.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+.login_class1,.login_class2{
+    background:violet;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#player1,#player2{
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#word{
+    width: 60%;
+    
+}
+#word-display{
+    letter-spacing: 5px;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+   border-top: 10px solid grey;
+    padding: 10px;
+    float:none;
+    text-align: left;
+}
+.container{
+    background:lightblue;
+    padding: 10px;
+    float: none;
+    border-radius: 45px 45px;
+    
+}
